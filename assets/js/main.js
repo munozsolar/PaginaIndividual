@@ -1,3 +1,6 @@
+function bienvenida() {
+    alert("Bienvenido a la pagina web!")
+}
 
 const body=document.querySelector('body')
 
