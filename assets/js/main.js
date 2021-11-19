@@ -15,3 +15,8 @@ function fondo(){
 }
 
 
+$( function() {
+    $( "#dialog" ).dialog();
+  } );
+
+
